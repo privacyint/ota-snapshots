@@ -1,7 +1,7 @@
 # Privacy International collection snapshots
 
 This repository is to be considered as a database only.
-You can find the documentation by following the link in the “About” section of this page.
+You can find the [Open Terms Archive documentation here](https://docs.opentermsarchive.org/). This repository is to be considered in compliment of the [versions repository](https://github.com/privacyint/ota-versions/).
 
 # License
 
